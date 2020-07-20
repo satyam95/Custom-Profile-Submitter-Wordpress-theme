@@ -1,0 +1,113 @@
+/*
+Theme Name: WP6
+Author: Satyam Sagar
+Description: Basic WordPress theme for profile submission using form.
+Version: 0.0.1
+Tags: bootstrap
+*/
+
+.nav.navbar-nav {
+    margin-left: auto;
+}
+
+.collapse.navbar-collapse ul li a {
+    color: white;
+    padding: 15px;
+    font-size: 20px;
+    font-weight: 700;
+}
+
+footer {
+    padding: 20px;
+    margin-bottom: 0;
+    background: black;
+    color: white;
+}
+p.mb-footer {
+    margin: 0;
+}
+
+nav.navbar.navbar-expand-lg.navbar-light {
+    padding: 50px 0px;
+}
+
+.container.box_1620 a {
+    color: white;
+    font-size: 35px;
+    font-weight: bold;
+}
+
+.container.box_1620 {
+    bottom: -150px !important;
+}
+
+.wp6_content {
+    width: 80%;
+    text-align: center;
+    color: black;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.wp6_content .table th a {
+    color: black;
+    font-size: 20px;
+    text-transform: capitalize;
+}
+
+.pro_img img.attachment-post-thumbnail.size-post-thumbnail.wp-post-image {
+    width: 45% !important;
+    height: auto !important;
+}
+
+.pro_summary {
+    padding-top: 40px;
+    padding-bottom: 1px;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1.entry-title {
+    text-transform: uppercase;
+}
+
+.info_block {
+    text-align: left;
+    margin-bottom: 30px;
+    color: black;
+}
+
+.col-lg-6.block_info p {
+    margin-bottom: 0px;
+}
+
+span.dark_head {font-weight: 700;}
+
+.col-lg-6.block_info {
+    float: left;
+}
+.col-lg-12.info_block {
+    display: table;
+}
+
+.form_div {
+    text-align: left;
+}
+
+.form_div {
+    padding: 2px 0px 0px 0px;
+}
+
+.form_div form h5 {
+    font-size: 23px;
+    margin-bottom: 22px;
+    margin-top: 15px;
+}
+
+.form_div_inner {
+    padding: 0px 20px;
+}
+span.clr_required {
+    color: red;
+}
